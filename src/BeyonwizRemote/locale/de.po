@@ -1,0 +1,42 @@
+# BeyonwizRemote translations.
+# Distributed under the same GPLv3 license as BeyonwizRemote.
+msgid ""
+msgstr ""
+"Project-Id-Version: BeyonwizRemote 1.0\n"
+"Report-Msgid-Bugs-To: https://github.com/oe-alliance-plugins/BeyonwizRemote/issues\n"
+"POT-Creation-Date: 2026-10-07 00:00+0000\n"
+"PO-Revision-Date: 2026-10-07 00:00+0000\n"
+"Last-Translator: OpenATV Team\n"
+"Language-Team: German\n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "All supported codes"
+msgstr "Alle unterstützten Codes"
+
+msgid "Change your remote to the selected code now.\n\nDoes the remote work with this receiver?\n\nWithout confirmation, the previous receiver code will be restored after 30 seconds."
+msgstr "Stelle deine Fernbedienung jetzt auf den ausgewählten Code um.\n\nFunktioniert die Fernbedienung mit diesem Receiver?\n\nOhne Bestätigung wird der vorherige Receiver-Code nach 30 Sekunden wiederhergestellt."
+
+msgid "Remote control code"
+msgstr "Fernbedienungscode"
+
+msgid "Remote Control Code"
+msgstr "Fernbedienungscode"
+
+msgid "Select a code supported by your remote. After saving, change the remote to the same code and confirm within 30 seconds. Otherwise the previous receiver code will be restored."
+msgstr "Wähle einen von deiner Fernbedienung unterstützten Code. Stelle die Fernbedienung nach dem Speichern auf denselben Code um und bestätige innerhalb von 30 Sekunden. Andernfalls wird der vorherige Receiver-Code wiederhergestellt."
+
+msgid "The current receiver code could not be read. No change will be made."
+msgstr "Der aktuelle Receiver-Code konnte nicht gelesen werden. Es wird nichts geändert."
+
+msgid "The previous receiver code could not be restored. Restart the receiver to reload the saved code."
+msgstr "Der vorherige Receiver-Code konnte nicht wiederhergestellt werden. Starte den Receiver neu, um den gespeicherten Code zu laden."
+
+msgid "The previous receiver code has been restored. Change your remote back if necessary."
+msgstr "Der vorherige Receiver-Code wurde wiederhergestellt. Stelle gegebenenfalls auch deine Fernbedienung zurück."
+
+msgid "The remote control code could not be changed."
+msgstr "Der Fernbedienungscode konnte nicht geändert werden."
